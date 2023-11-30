@@ -1,0 +1,3 @@
+/home/cessart/eb/pregunta1/build/CMakeFiles/program.dir
+/home/cessart/eb/pregunta1/build/CMakeFiles/edit_cache.dir
+/home/cessart/eb/pregunta1/build/CMakeFiles/rebuild_cache.dir
